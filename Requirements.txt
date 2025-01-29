@@ -1,0 +1,25 @@
+python version 10
+
+requirement
+open cv - pip install opencv-python
+
+mediapipe - pip install mediapipe
+sklearn - pip install scikit-learn 
+shuffle - import random
+random.shuffle(your_list)
+
+tabulate -pip install tabulate
+
+pyttsx3 - pip install pyttsx3
+
+pip install opencv-python
+pip install mediapipe
+pip install scikit-learn
+import random
+random.shuffle(your_list)
+pip install tabulate
+pip install pyttsx3
+
+
+
+
